@@ -2,7 +2,7 @@
 
 ## 1. File ‘players_visualization’
 
-Data visualization for basketball players with **mayplotlib library (python)**.
+Data visualization for basketball players with **matplotlib library (python)**.
 The whole storytelling and comments include the following plots:
 1) lineplot / multiple lineplots;
 2) area plots (stacked and not stacked);
