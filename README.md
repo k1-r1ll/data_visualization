@@ -1,6 +1,6 @@
 # Data_visualization
 
-1. File players_visualization
+## 1. File players_visualization
 
 Data visualization for basketball players with mayplotlib lybrary (python).
 The whole storytelling and comments include the following plots:
