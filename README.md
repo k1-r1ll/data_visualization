@@ -13,3 +13,9 @@ The whole storytelling and comments include the following plots:
 7) boxplots.
 
 Project also contains detailed data pre-processing.
+
+## 2. File ‘taxi_visualization’
+
+Several map visualization on New York taxi activities: toner, terrain, marked.
+Storytelling goes from simple New York map variants to the first hundred pickups on the map
+(including cluster variant).
