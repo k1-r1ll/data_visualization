@@ -16,6 +16,5 @@ Project also contains detailed data pre-processing.
 
 ## 2. File ‘taxi_visualization’
 
-Several map visualization on New York taxi activities: toner, terrain, marked.
-Storytelling goes from simple New York map variants to the first hundred pickups on the map
+Several map visualization on New York taxi activities: toner, terrain, marked.<br>Storytelling goes from simple New York map variants to the first hundred pickups on the map
 (including cluster variant).
