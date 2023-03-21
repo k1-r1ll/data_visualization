@@ -17,3 +17,10 @@ Project also contains detailed data pre-processing.
 ## 2. File ‘taxi_visualization’
 
 Several map visualization on New York taxi activities: toner, terrain, marked.<br>Storytelling goes from simple New York map variants to the first hundred pickups on the map (including cluster variant).
+
+## 3. File ‘film_visualization’
+
+We use dataset ‘tmdb_5000_credits’ that has information for hundreds movies from tmdb.<br>
+Our goal is to analyze crew of the first 50 films in the dataset.<br>
+We will see, how many crew members each speciality has, take the three most popular ones and build<br>
+several waffle charts based on them.
