@@ -24,3 +24,10 @@ We use dataset ‘tmdb_5000_credits’ that has information for hundreds movies 
 Our goal is to analyze crew of the first 50 films in the dataset.<br>
 We will see, how many crew members each speciality has, take the three most popular ones and build<br>
 several waffle charts based on them.
+
+The whole storytelling and comments include the following plots:
+1) basic waffle plot;
+2) detailed waffle plot;
+3) waffle plot with legend.
+
+Project also contains detailed data pre-processing.
