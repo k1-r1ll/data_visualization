@@ -42,6 +42,7 @@ Visualization possible linear relationship in data. Features the following figur
 5) histograms;
 6) regression joinplots;
 7) heatmap.
+
 Results interpretation is also included.
 
 
