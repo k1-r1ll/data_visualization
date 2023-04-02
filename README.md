@@ -31,3 +31,17 @@ The whole storytelling and comments include the following plots:
 3) waffle plot with legend.
 
 Project also contains detailed data pre-processing.
+
+## 4. File ‘linear_relationship_visualization’
+
+Visualization possible linear relationship in data. Features the following figure types:
+1) different types of pairplots;
+2) usage of different color palettes in plots;
+3) changing data marker and kde levels;
+4) box plots;
+5) histograms;
+6) regression joinplots;
+7) heatmap.
+Results interpretation is also included.
+
+
